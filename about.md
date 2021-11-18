@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: 关于我的
 permalink: /about/
 ---
 
-Some information about you!
+关于我的信息
 
-### More Information
+### 更多信息
 
-A place to include any other types of information that you'd like to include about yourself.
+目前在线资源
+[github](https://github.com/Micah123321)
+[gitee](https://gitee.com/micah666)
+[博客1](https://www.cnblogs.com/MxMicah/)
+[博客2](https://micah123321.github.io/)
+### 联系我
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[我的邮箱](mailto:mxmicah@qq.com)
